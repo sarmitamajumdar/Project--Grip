@@ -5,14 +5,13 @@
 </head>
 
 <body>
-  <h1>Project </h1>
+  <h2>Project </h2>
   <h4>Covid 19 cases statewise in India </h4>
-  <h1>GRIP</h1>
+  <h2>GRIP</h2>
   <h4>A simple Dashboard to cater information on Covid 19 cases for the States in India </h4>
 
-  <h2>GRIP- Grass Root Improvment Process. Required to cope up with this kind of Pandemic siuation.</h2>
+  <h2>GRIP- Grass Root Improvement Process. Now, the high time to cope up with this kind of Pandemic siuation.</h2>
   
-  <h2>FAQ</h2>
   <p>Lorem ipsum</p>
   <p><strong>Problem detected</strong><br>
     We, the human being are going through a critical threat of a virus Covid 19. People from all over the World either in a fear to have it or in search of a solution through research work and service. Although a Ray of Hope arises as we came to know about the vaccine. Although it's dangerous for the mankind. Along with the Doctors, Nurses and Social workers , Technology has a sole power to fight against any kind of limitations arise earlier. To have an urge to become a part of the fighter with technology, GRIP has start to step on the challange. Now it's just an informative stage. But if any Team support gets it will start to fight with proper weapon in near future.
