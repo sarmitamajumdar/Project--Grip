@@ -22,7 +22,7 @@
     Informations are all about our existance. Data is just like a Baniun tree. The more it will grow, the more it will serve. But as a tree needs to shape up, information also need to have a shape. So, cleaning, cuting, editing, and DTM, are the integral part to give us a choce to live, to love and to exist. Technology alone can do the same with a proper hand, positive people and with a perfect timing.
   </p> 
 
-  <p><strong>The idea
+  <p><strong>The idea: 
     Covid 19 is a real, crucial crisis. But hope it will take a break as vaccine is almost ready to marketized. India, being a developing country with a huge population, awareness is low.Even among people who are certified educated, shows less aware. So, it's a startup try to just give informations statewise. A Diagram is attached herewith for further enhancement to Grip up with the Pandemic.  
   </p>
 
