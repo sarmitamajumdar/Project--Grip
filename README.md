@@ -6,9 +6,9 @@
 
 <body>
   <h1>Project </h1>
-  <h2>Covid 19 cases for the States in India</h2>
+  <h4>Covid 19 cases for the States in India</h4>
   <h1>GRIP</h1>
-  <h2>A simple Dashboard to cater information on Covid 19 cases for the States in India </h2>
+  <h4>A simple Dashboard to cater information on Covid 19 cases for the States in India </h4>
 
   <h2>GRIP- Grass Root Improvment Process. Required to cope up with this kind of Pandemic siuation.</h2>
   
