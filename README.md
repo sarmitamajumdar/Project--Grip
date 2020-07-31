@@ -14,7 +14,7 @@
   
   <p>Lorem ipsum</p>
   <p><strong>Problem detected</strong><br>
-    We, the human being are going through a critical threat of a virus Covid 19. People from all over the World either in a fear to have it or in search of a solution through research work and service. Although a Ray of Hope arises as we came to know about the vaccine. Although it's dangerous for the mankind. Along with the Doctors, Nurses and Social workers , Technology has a sole power to fight against any kind of limitations arise earlier. To have an urge to become a part of the fighter with technology, GRIP has start to step on the challange. Now it's just an informative stage. But if any Team support gets it will start to fight with proper weapon in near future.
+    We, the human being are going through a critical threat of a virus Covid 19. People from all over the World either in a fear to have it or in search of a solution through research work and service. Although a Ray of Hope arises as we came to know about the vaccine. It's dangerous for mankind. Along with the Doctors, Nurses and Social workers , Technology has a sole power to fight against any kind of limitations. To have an urge to become a part of the fighter with technology, GRIP has start to step on the challange. Now it's just an informative stage. But if any Team support gets it will start to fight with proper weapon in near future.
   </p> 
 
   <p><strong>How can technology help?</strong><br>
